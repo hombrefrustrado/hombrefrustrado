@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Fran (a.k.a. @hombrefrustrado)
+# 👋 Hey, I'm @hombrefrustrado
 
 - 🚀 **Interests:** From economic freedom to cow aerodynamics. I also enjoy coding challenges, chess, and debating economics.
 - 🧠 **Currently learning:** Scala, Python, Java, C… and git, because making mistakes is human, but making them irreversible is what version control is for.
