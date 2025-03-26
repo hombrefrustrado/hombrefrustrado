@@ -4,7 +4,7 @@
 - 🧠 **Currently learning:** Scala, Python, Java, C… and git, because making mistakes is human, but making them irreversible is what version control is for.
 - 🤝 **Looking to collaborate on:** Cool projects, especially those involving algorithms, DB, or crazy ideas.
 - 📬 **Contact** Find me on Discord: `hombrefrustrado`
-- ⚡ **Fun fact:** I believe in economic freedom, and graphs are the best metaphor of life.
+- ⚡ **Fun fact:** I believe in economic freedom, and graphs are the best metaphor of life. I love neural networks
 
 
 <!---
