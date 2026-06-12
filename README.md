@@ -8,8 +8,6 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hombrefrustrado&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hombrefrustrado&langs_count=20)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hombrefrustrado&theme=radical)](https://git.io/streak-stats)
 
 
