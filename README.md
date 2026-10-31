@@ -1,5 +1,8 @@
 # 👋 Hey, I'm @hombrefrustrado
 
+Undergraduate at 4th year specializing in **Artificial Intelligence, Deep Learning, Data Science & Applied Backend Systems** at the University of Málaga.  
+Passionate about quantitative finance, computer vision pipelines, and intelligent middleware architectures.
+
 - 🚀 **Interests:** From economic freedom to cow aerodynamics. I also enjoy coding challenges, chess, and debating economics.
 - 🧠 **Currently learning:** Python, Java, C…
 - 🤝 **Looking to collaborate on:** Cool projects, especially those involving ML, WS, or crazy ideas.
